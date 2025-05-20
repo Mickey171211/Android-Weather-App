@@ -27,6 +27,8 @@
             android:name=".WeatherActivity"
             android:exported="true" />
 
+        <activity android:name=".EditActivity" android:exported="true" />
+
 
     </application>
 
