@@ -1,5 +1,8 @@
 # Android-Weather-App
-Simple weather app by Mekhi Losper
+
+IMAD ICE TASKS
+
+Simple weather app by Mekhi Losper ST10465811
 
 Change branch main to master for ice task 3
 
